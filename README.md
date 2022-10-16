@@ -1,5 +1,5 @@
 ### Hello World, I'm Celine👋
-
+![](codinggif.gif)
 - 🔭 I’m currently working on .. 
 - 🌱 I’m currently learning ... with The Marcy Lab School
 - 👯 I’m looking to collaborate on ... 

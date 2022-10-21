@@ -4,6 +4,11 @@
 </p>
 
 ![](codinggif.gif)
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/celine-youance/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
 - 🔭 I’m currently working on ... backend engineering
 - 🌱 I’m currently learning ... with The Marcy Lab School
 - 👯 I’m looking to collaborate on ... any projects

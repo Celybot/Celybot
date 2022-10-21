@@ -1,9 +1,10 @@
-### Hello World, I'm Celine👋
+<h1> Hello World, I'm Celine👋</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+love+coding.;I+love+getting+creative.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
-
-![](codinggif.gif)
+<p align="center">
+  <img src="codinggif.gif" alt="animated" />
+</p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/celine-youance/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

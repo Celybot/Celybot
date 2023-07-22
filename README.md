@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-- 🔭 I’m currently working on ... backend engineering
+- 🔭 I’m currently working on ... Leet Code
 - 🌱 I’m currently learning ... with The Marcy Lab School
 - 👯 I’m looking to collaborate on ... any projects
 - 🤔 I’m looking for help with ... backend engineering

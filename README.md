@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on ... any projects
 - 🤔 I’m looking for help with ... backend engineering
 - 💬 Ask me about ... anything 
-- 📫 How to reach me: ... youancece@gmail.com
+- 📫 How to reach me: ... celineyouance@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I can touch my nose with my tongue
 

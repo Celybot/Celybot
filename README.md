@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on ... Leet Code
 - 🌱 I’m currently learning ... with The Marcy Lab School
 - 👯 I’m looking to collaborate on ... any projects
-- 🤔 I’m looking for help with ... backend engineering
 - 💬 Ask me about ... anything 
 - 📫 How to reach me: ... celineyouance@gmail.com
 - 😄 Pronouns: ... she/her
